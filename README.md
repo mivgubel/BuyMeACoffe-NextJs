@@ -1,3 +1,18 @@
+### BUY ME A COFFE APP.
+
+I develop this NextJs Dapp to connect to my smartcontract deployed on Goerli for the project: BuyMeACoffee of the week 2 of the course RoadToWeb3 by Alchemy.
+
+I deployed on Replit so it takes some time to load in your first connection to the website.
+
+## URL: https://buymeacoffee-solidity-defi-tipping-app.miguel-angel425.repl.co/
+
+![image](https://user-images.githubusercontent.com/51422943/168495600-a3b16b6b-dbbb-49a3-9628-ec130f21104f.png)
+
+
+![image](https://user-images.githubusercontent.com/51422943/168495618-f96e1f0a-fb2e-4f23-a7fc-587a91593103.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
