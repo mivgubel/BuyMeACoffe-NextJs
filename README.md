@@ -1,4 +1,4 @@
-### BUY ME A COFFE APP.
+# BUY ME A COFFE APP.
 
 I developed this NextJs Dapp to connect to my smartcontract deployed on Goerli for the project: BuyMeACoffee from week 2 of Alchemy's course RoadToWeb3.
 
