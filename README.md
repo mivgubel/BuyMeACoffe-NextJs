@@ -1,8 +1,8 @@
 ### BUY ME A COFFE APP.
 
-I develop this NextJs Dapp to connect to my smartcontract deployed on Goerli for the project: BuyMeACoffee of the week 2 of the course RoadToWeb3 by Alchemy.
+I developed this NextJs Dapp to connect to my smartcontract deployed on Goerli for the project: BuyMeACoffee from week 2 of Alchemy's course RoadToWeb3.
 
-I deployed on Replit so it takes some time to load in your first connection to the website.
+I deployed on Replit so it takes some time to load on your first connection to the website.
 
 ## URL: https://buymeacoffee-solidity-defi-tipping-app.miguel-angel425.repl.co/
 
