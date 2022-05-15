@@ -4,7 +4,7 @@ I developed this NextJs Dapp to connect to my smartcontract deployed on Goerli f
 
 I deployed on Replit so it takes some time to load on your first connection to the website.
 
-## URL: https://buymeacoffee-solidity-defi-tipping-app.miguel-angel425.repl.co/
+#### URL: https://buymeacoffee-solidity-defi-tipping-app.miguel-angel425.repl.co/
 
 ![image](https://user-images.githubusercontent.com/51422943/168495600-a3b16b6b-dbbb-49a3-9628-ec130f21104f.png)
 
